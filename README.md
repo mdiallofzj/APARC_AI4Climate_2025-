@@ -1,4 +1,4 @@
-# APARC_AI4Climate_2025-AIMS-Senegal
+# 2025 AI4Climate School AIMS Senegal
 
 # Joint APARC/WCRP Workshop and Training School on AI for Climate and Weather Forecast.
 
