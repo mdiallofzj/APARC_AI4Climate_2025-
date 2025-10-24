@@ -13,3 +13,12 @@ Afternoon Computer-based Exercises: Application-oriented AI/ML sessions on Jupyt
 Soft Skills: Personal development sessions focusing on essential academic and professional skills, including communication with different audiences and participatory research.
 Social Events: Networking opportunities and informal exchanges during coffee breaks and the social dinner.
 Presentations: Self-introduction and presentation of the mini-project results by the early-career attendees to foster discourse and feedback. 
+
+# Website & WCRP-Academy  Link:
+
+- School Webpage: https://sites.google.com/view/ai4climateschool
+
+- WCRP Academy Webpage: https://wcrp-academy.org/catalogues/joint-aparc-wcrp-workshop-and-training-school-on-ai-for-climate-and-weather-forecast/
+
+- WCRP Website: https://www.wcrp-climate.org/news/wcrp-news/2333-aparc-training-school-ai
+
